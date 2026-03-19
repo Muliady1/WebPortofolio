@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "skills": "Keahlian",
+    "portfolio": "Portofolio",
+    "contact": "Kontak"
+  },
+  "availableForWork": "Tersedia untuk bekerja",
+  "rating": "Rating",
+  "experienceyears": "Tahun Pengalaman",
+  "projects": "Proyek",
+  "clientRating": "Penilaian Klien",
+  "viewPortfolio": "Lihat Portofolio",
+  "viewProfile": "Lihat Profil Lengkap",
+  "viewAll": "Lihat Semua",
+  "getInTouch": "Hubungi Saya",
+  "hero": {
+    "hiThere": "Halo 👋",
+    "iamInto": "Saya ahli dalam"
+  },
+  "about": {
+    "label": "Tentang Saya",
+    "title": "Orang di Balik Pekerjaan",
+    "headerTitle": "Cerita",
+    "headerTitleHightlight": "Di Balik Pekerjaan",
+    "description": "Saya seorang profesional digital.",
+    "mainDescription": "Saya Muliady Putra — seorang profesional digital multidisiplin dari Indonesia 🇮🇩. Saya menjembatani kesenjangan antara desain yang indah dan rekayasa fungsional, memberikan solusi digital end-to-end untuk klien di seluruh dunia.",
+    "viewProfile": "Lihat Profil Lengkap",
+    "profession": "Web Developer & Asisten Virtual",
+    "quote": "Saya adalah profesional digital multidisiplin yang menjembatani kesenjangan antara desain yang indah dan rekayasa fungsional. Dari UI yang sempurna hingga dukungan backend yang andal — saya memberikan solusi digital end-to-end.",
+    "passionate": "Bersedia tentang kode yang bersih, UX yang bijak, dan membangun hal-hal yang benar-benar bekerja untuk orang-orang nyata.",
+    "whatIDo": "Apa yang Saya Lakukan",
+    "aboutexperience": "Pengalaman",
+    "aboutexperiencetitle": "Pengalaman & Pendidikan",
+    "aboutexperiencetitledesc": "Peran, tanggung jawab, dan fondasi akademik yang membentuk keahlian profesional saya."
+  },
+  "skills": {
+    "label": "Keahlian",
+    "badge": "Keahlian Utama",
+    "titlePrefix": "Temukan",
+    "title": "Yang Saya Kuasai",
+    "description": "Kumpulan kemampuan praktis yang saya gunakan untuk membangun produk dan layanan.",
+    "descriptionShort": "Ringkasan singkat keterampilan saya di berbagai area.",
+    "categoriesTitle": "Kategori Keahlian",
+    "getInTouchBadge": "Mari Kolaborasi"
+  },
+  "service": {
+    "label": "Layanan",
+    "title": "Bagaimana Saya Dapat Membantu Anda",
+    "description": "Layanan inti yang saya tawarkan — disesuaikan dengan kebutuhan Anda, disampaikan dengan presisi dan perhatian.",
+    "available": "Tersedia",
+    "inquire": "→ Tanyakan"
+  },
+  "servicedata": [
+    {
+      "id": 1,
+      "title": "Entri Data & Pembersihan Data",
+      "desc": "Entri data yang akurat, pemformatan, validasi, dan pembersihan untuk spreadsheet, dokumen, dan database."
+    },
+    {
+      "id": 2,
+      "title": "Pengelolaan & Pelaporan Spreadsheet",
+      "desc": "Pengorganisasian Google Sheets/Excel, rumus, pengurutan, penyaringan, dan pelaporan terstruktur."
+    },
+    {
+      "id": 3,
+      "title": "Riset Online",
+      "desc": "Riset topik, riset produk, riset kompetitor, dan ringkasan informasi terstruktur."
+    },
+    {
+      "id": 4,
+      "title": "Analisis Data Dasar",
+      "desc": "Wawasan data sederhana menggunakan rumus Excel, tabel pivot, dan interpretasi laporan yang jelas."
+    },
+    {
+      "id": 5,
+      "title": "Penulisan Skrip YouTube",
+      "desc": "Skrip menarik dengan hook kuat, alur storytelling, dan struktur retensi audiens."
+    },
+    {
+      "id": 6,
+      "title": "Dukungan Konten & Video Pendek",
+      "desc": "Strukturisasi konten, penulisan keterangan, dan alur kerja persiapan video bentuk pendek."
+    }
+  ],
+  "cv": {
+    "label": "Unduh CV",
+    "title": "Dapatkan",
+    "titleHighlight": "Resume Saya",
+    "description": "Unduh CV saya dalam bahasa pilihan Anda untuk mempelajari lebih lanjut tentang pengalaman, keterampilan, dan pencapaian profesional saya.",
+    "englishButton": "Unduh CV (Bahasa Inggris)",
+    "indonesiaButton": "Unduh CV (Indonesia)"
+  },
+  "experience": {
+    "label": "Perjalanan Profesional",
+    "title": "Pengalaman &",
+    "titleHighlight": "Pendidikan",
+    "description": "Peran, tanggung jawab, dan fondasi akademik yang membentuk keahlian profesional saya.",
+    "workExperience": "Pengalaman Kerja"
+  },
+  "experiencedata": [
+    {
+      "id": 1,
+      "role": "Asisten Perawat Klinis",
+      "place": "Rumah Sakit & Layanan Kesehatan Primer",
+      "time": "2021 – Sekarang",
+      "desc": "Memberikan perawatan pasien, membantu tim medis dalam prosedur klinis, memantau kondisi pasien, serta memastikan dokumentasi layanan kesehatan dilakukan secara akurat."
+    },
+    {
+      "id": 2,
+      "role": "Administrasi Kesehatan",
+      "place": "BPJS & Sistem Klinis",
+      "time": "2021 – Sekarang",
+      "desc": "Mengelola proses administrasi kesehatan termasuk sistem BPJS e-Claim dan P-Care, pengelolaan data pasien, serta pelaporan klinis secara terstruktur."
+    },
+    {
+      "id": 3,
+      "role": "Dukungan Digital & Administratif",
+      "place": "Freelance / Proyek Pribadi",
+      "time": "2022 – Sekarang",
+      "desc": "Mengerjakan berbagai tugas digital dan administratif seperti pengolahan data, dokumentasi Microsoft Office, pengembangan website, desain grafis, dan pembuatan konten digital."
+    }
+  ],
+  "educationlabel": "Pendidikan",
+  "education": [
+    {
+      "id": 1,
+      "title": "Magister Keperawatan",
+      "place": "Universitas Syiah Kuala",
+      "time": "2025 – Sekarang",
+      "desc": "Sedang menempuh pendidikan Magister Keperawatan dengan fokus pada penelitian keperawatan lanjutan, manajemen pelayanan kesehatan, kepemimpinan klinis, serta pengembangan sistem kesehatan."
+    },
+    {
+      "id": 2,
+      "title": "Program Perawat Profesional (Ners)",
+      "place": "Universitas Syiah Kuala",
+      "time": "2022 – 2023",
+      "desc": "Menyelesaikan pendidikan profesi perawat dengan rotasi klinis intensif di berbagai unit layanan kesehatan seperti ICU, IGD, maternitas, dan rawat inap."
+    },
+    {
+      "id": 3,
+      "title": "Sarjana Keperawatan (S.Kep)",
+      "place": "Universitas Syiah Kuala",
+      "time": "2016 – 2021",
+      "desc": "Mempelajari ilmu keperawatan dasar hingga lanjutan termasuk perawatan pasien, dokumentasi medis, etika kesehatan, keselamatan pasien, dan praktik klinis."
+    }
+  ],
+  "certificates": {
+    "label": "Sertifikasi",
+    "title": "Kredensial",
+    "titleHighlight": "Profesional",
+    "description": "Sertifikasi yang diakui industri yang memvalidasi keahlian dan komitmen saya terhadap pertumbuhan profesional."
+  },
+  "certificatesdata": [
+    {
+      "id": 1,
+      "title": "Sertifikasi Google Analytics",
+      "issuer": "Google",
+      "date": "2023",
+      "color": "#60a5fa",
+      "icon": "📊"
+    },
+    {
+      "id": 2,
+      "title": "Meta Blueprint Certified",
+      "issuer": "Meta",
+      "date": "2023",
+      "color": "#f472b6",
+      "icon": "📱"
+    },
+    {
+      "id": 3,
+      "title": "Adobe XD Mastery",
+      "issuer": "Adobe",
+      "date": "2022",
+      "color": "#a78bfa",
+      "icon": "🎨"
+    },
+    {
+      "id": 4,
+      "title": "Full Stack Web Development",
+      "issuer": "Udemy",
+      "date": "2023",
+      "color": "#38bdf8",
+      "icon": "💻"
+    }
+  ],
+  "values": {
+    "label": "Nilai-Nilai Saya",
+    "title": "Yang Saya",
+    "titleHighlight": "Yakini",
+    "description": "Prinsip-prinsip yang memandu setiap proyek, setiap interaksi klien, dan setiap baris kode.",
+    "data": [
+      {
+        "id": 1,
+        "title": "Kecepatan & Kualitas",
+        "desc": "Menghasilkan dengan cepat tanpa mengurangi kualitas — setiap piksel dan setiap baris kode sangat berarti."
+      },
+      {
+        "id": 2,
+        "title": "Klien Utama",
+        "desc": "Saya mendengarkan sebelum membangun. Memahami tujuan Anda adalah fondasi dari setiap proyek."
+      },
+      {
+        "id": 3,
+        "title": "Perhatian pada Detail",
+        "desc": "Dari tipografi hingga respons API — presisi adalah hal yang tidak bisa ditawar."
+      },
+      {
+        "id": 4,
+        "title": "Pertumbuhan Berkelanjutan",
+        "desc": "Selalu belajar, selalu berkembang. Dunia teknologi bergerak cepat dan saya juga."
+      },
+      {
+        "id": 5,
+        "title": "Siap Remote",
+        "desc": "Berpengalaman dalam komunikasi asinkron, manajemen zona waktu, dan alat kolaborasi jarak jauh."
+      },
+      {
+        "id": 6,
+        "title": "Berorientasi Hasil",
+        "desc": "Saya mengukur keberhasilan berdasarkan hasil — lalu lintas, konversi, kepuasan pengguna, dan pengiriman."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Mari Buat Sesuatu yang",
+    "titleHighlight": "Luar Biasa Bersama",
+    "description": "Apakah Anda membutuhkan website, sistem desain, analisis data, atau asisten virtual yang terpercaya — saya siap membantu Anda sukses."
+  }
+}

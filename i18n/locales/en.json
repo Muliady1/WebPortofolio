@@ -1,0 +1,228 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "availableForWork": "Available for work",
+  "rating": "Rating",
+  "experienceyears": "Years Experience",
+  "projects": "Projects",
+  "clientRating": "Client Rating",
+  "viewPortfolio": "View Portfolio",
+  "viewProfile": "View Full Profile",
+  "viewAll": "View All",
+  "getInTouch": "Get In Touch",
+  "hero": {
+    "hiThere": "Hi there 👋",
+    "iamInto": "I am Into"
+  },
+  "about": {
+    "label": "About Me",
+    "title": "The Person Behind the Work",
+    "headerTitle": "Story",
+    "headerTitleHightlight": "Behind the Work",
+    "description": "I am a digital professional.",
+    "mainDescription": "I am Muliady Putra — a multidisciplinary digital professional from Indonesia 🇮🇩. I bridge the gap between beautiful design and functional engineering, delivering end-to-end digital solutions for clients worldwide.",
+    "viewProfile": "View Full Profile",
+    "profession": "Web Developer & Virtual Assistant",
+    "quote": "I am a multidisciplinary digital professional bridging the gap between beautiful design and functional engineering. From flawless UI to reliable backend support — I deliver end-to-end digital solutions.",
+    "passionate": "Passionate about clean code, wise UX, and building things that actually work for real people.",
+    "whatIDo": "What I Do",
+    "aboutexperience": "Experience",
+    "aboutexperiencetitle": "Experience & Education",
+    "aboutexperiencetitledesc": "Roles, responsibilities, and academic foundation that shaped my professional expertise."
+  },
+  "skills": {
+    "label": "Skills",
+    "badge": "Top Skills",
+    "titlePrefix": "Discover",
+    "title": "What I Master"
+  },
+  "service": {
+    "label": "Services",
+    "title": "How I Can Help You",
+    "description": "Core services I offer — tailored to your needs, delivered with precision and care.",
+    "available": "Available",
+    "inquire": "→ Inquire"
+  },
+  "servicedata": [
+    {
+      "id": 1,
+      "title": "Data Entry & Cleaning",
+      "desc": "Accurate data entry, formatting, validation, and cleaning for spreadsheets, documents, and databases."
+    },
+    {
+      "id": 2,
+      "title": "Spreadsheet Management & Reporting",
+      "desc": "Google Sheets/Excel organization, formulas, sorting, filtering, and structured reporting."
+    },
+    {
+      "id": 3,
+      "title": "Online Research",
+      "desc": "Topic research, product research, competitor research, and structured information summaries."
+    },
+    {
+      "id": 4,
+      "title": "Basic Data Analysis",
+      "desc": "Simple data insights using Excel formulas, pivot tables, and clear report interpretation."
+    },
+    {
+      "id": 5,
+      "title": "YouTube Script Writing",
+      "desc": "Engaging scripts with strong hooks, storytelling flow, and audience retention structure."
+    },
+    {
+      "id": 6,
+      "title": "Content & Short Video Support",
+      "desc": "Content structuring, caption writing, and short-form video workflow preparation."
+    }
+  ],
+  "cv": {
+    "label": "Download CV",
+    "title": "Get My",
+    "titleHighlight": "Resume",
+    "description": "Download my CV in your preferred language to learn more about my experience, skills, and professional achievements.",
+    "englishButton": "Download CV (English)",
+    "indonesiaButton": "Download CV (Indonesian)"
+  },
+  "experience": {
+    "label": "Professional Journey",
+    "title": "Experience &",
+    "titleHighlight": "Education",
+    "description": "Roles, responsibilities, and academic foundation that shaped my professional expertise.",
+    "workExperience": "Work Experience"
+  },
+  "experiencedata": [
+    {
+      "id": 1,
+      "role": "Clinical Nurse Assistant",
+      "place": "Hospital & Primary Health Care",
+      "time": "2021 – Present",
+      "desc": "Providing patient care, assisting medical teams in clinical procedures, monitoring patient conditions, and ensuring accurate healthcare documentation."
+    },
+    {
+      "id": 2,
+      "role": "Health Administration",
+      "place": "BPJS & Clinical Systems",
+      "time": "2021 – Present",
+      "desc": "Managing health administration processes including BPJS e-Claim and P-Care systems, patient data management, and structured clinical reporting."
+    },
+    {
+      "id": 3,
+      "role": "Digital & Administrative Support",
+      "place": "Freelance / Personal Projects",
+      "time": "2022 – Present",
+      "desc": "Working on various digital and administrative tasks such as data processing, Microsoft Office documentation, website development, graphic design, and digital content creation."
+    }
+  ],
+  "educationlabel": "Education",
+  "education": [
+    {
+      "id": 1,
+      "title": "Master of Nursing",
+      "place": "Universitas Syiah Kuala",
+      "time": "2025 – Present",
+      "desc": "Pursuing Master's degree in Nursing with focus on advanced nursing research, health service management, clinical leadership, and health system development."
+    },
+    {
+      "id": 2,
+      "title": "Professional Nursing Program (Ners)",
+      "place": "Universitas Syiah Kuala",
+      "time": "2022 – 2023",
+      "desc": "Completed professional nursing education with intensive clinical rotations in various health service units including ICU, ER, maternity, and inpatient wards."
+    },
+    {
+      "id": 3,
+      "title": "Bachelor of Nursing (S.Kep)",
+      "place": "Universitas Syiah Kuala",
+      "time": "2016 – 2021",
+      "desc": "Studied basic to advanced nursing science including patient care, medical documentation, health ethics, patient safety, and clinical practice."
+    }
+  ],
+  "certificates": {
+    "label": "Certificates",
+    "title": "Professional",
+    "titleHighlight": "Credentials",
+    "description": "Industry-recognized certifications that validate my expertise and commitment to professional growth."
+  },
+  "certificatesdata": [
+    {
+      "id": 1,
+      "title": "Google Analytics Certification",
+      "issuer": "Google",
+      "date": "2023",
+      "color": "#60a5fa",
+      "icon": "📊"
+    },
+    {
+      "id": 2,
+      "title": "Meta Blueprint Certified",
+      "issuer": "Meta",
+      "date": "2023",
+      "color": "#f472b6",
+      "icon": "📱"
+    },
+    {
+      "id": 3,
+      "title": "Adobe XD Mastery",
+      "issuer": "Adobe",
+      "date": "2022",
+      "color": "#a78bfa",
+      "icon": "🎨"
+    },
+    {
+      "id": 4,
+      "title": "Full Stack Web Development",
+      "issuer": "Udemy",
+      "date": "2023",
+      "color": "#38bdf8",
+      "icon": "💻"
+    }
+  ],
+  "values": {
+    "label": "My Values",
+    "title": "What I",
+    "titleHighlight": "Believe In",
+    "description": "Principles that guide every project, every client interaction, and every line of code.",
+    "data": [
+      {
+        "id": 1,
+        "title": "Speed & Quality",
+        "desc": "Delivering fast without cutting corners — every pixel and every line of code matters."
+      },
+      {
+        "id": 2,
+        "title": "Client-First",
+        "desc": "I listen before I build. Understanding your goals is the foundation of every project."
+      },
+      {
+        "id": 3,
+        "title": "Attention to Detail",
+        "desc": "From typography to API responses — precision is non-negotiable."
+      },
+      {
+        "id": 4,
+        "title": "Continuous Growth",
+        "desc": "Always learning, always improving. The tech world moves fast and so do I."
+      },
+      {
+        "id": 5,
+        "title": "Remote-Ready",
+        "desc": "Experienced in async communication, time-zone management, and remote collaboration tools."
+      },
+      {
+        "id": 6,
+        "title": "Result-Oriented",
+        "desc": "I measure success by outcomes — traffic, conversions, user satisfaction, and delivery."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Let's Create Something",
+    "titleHighlight": "Amazing Together",
+    "description": "Whether you need a website, design system, data analysis, or a trusted virtual assistant — I'm ready to help you succeed."
+  }
+}

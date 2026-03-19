@@ -1,75 +1,73 @@
-# Nuxt Minimal Starter
+# 🌐 Personal Portfolio – Remote Digital Assistant & Content Creator
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Hi 👋 I'm **Muliady**
 
-## Setup
+I help businesses and creators handle repetitive digital tasks so they can focus on growth.
 
-Make sure to install dependencies:
+This portfolio represents my skills in:
 
-```bash
-# npm
-npm install
+* Data Entry & Data Processing
+* Online Research & Information Gathering
+* YouTube Script Writing & Content Structuring
+* Basic Web & Automation Tools
 
-# pnpm
-pnpm install
+---
 
-# yarn
-yarn install
+## 🧠 What I Can Do
 
-# bun
-bun install
-```
+### 📊 Data Entry & Data Processing
 
-## Development Server
+* Spreadsheet formatting (Google Sheets / Excel)
+* Data cleaning & organizing
+* Copy-paste & document conversion
+* Fast and accurate typing
 
-Start the development server on `http://localhost:3000`:
+### 🔎 Online Research
 
-```bash
-# npm
-npm run dev
+* Product research
+* Competitor analysis
+* Topic research for articles / videos
+* Collecting structured datasets
 
-# pnpm
-pnpm dev
+### 🎬 YouTube Script Writing
 
-# yarn
-yarn dev
+* Hook & retention structure
+* SEO title ideas
+* Story-based scripts
+* Short-form & long-form format
 
-# bun
-bun run dev
-```
+---
 
-## Production
+## 🛠 Tools
 
-Build the application for production:
+* Google Docs / Sheets
+* Microsoft Excel
+* ChatGPT & AI Tools
+* Notion
+* Canva
+* Basic HTML/CSS/Next.js
 
-```bash
-# npm
-npm run build
+---
 
-# pnpm
-pnpm build
+## 📁 Sample Work
 
-# yarn
-yarn build
+This website contains:
 
-# bun
-bun run build
-```
+* Portfolio introduction
+* Skill overview
+* Contact information
 
-Locally preview production build:
+More samples available upon request.
 
-```bash
-# npm
-npm run preview
+---
 
-# pnpm
-pnpm preview
+## 📬 Contact
 
-# yarn
-yarn preview
+Available for remote work (Freelance / Part-time / Full-time)
 
-# bun
-bun run preview
-```
+Email: [your-actual-email@example.com](mailto:your-actual-email@example.com)WhatsApp: +62 xxx
+Location: Indonesia (Remote Friendly)
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+---
+
+⭐ Open to long-term collaboration
